@@ -1,4 +1,4 @@
-//MOD -10 COUNTER 
+//MOD -10 COUNTER  
 module mod10(rst,clk,out); 
 input rst,clk; 
 output reg[3:0]out=4'b0000;
